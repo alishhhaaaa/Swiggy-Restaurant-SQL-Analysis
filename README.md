@@ -37,6 +37,14 @@ rated, and what food types dominate the platform.
 - Mid Range restaurants dominate (6600+)
 - Premium restaurants have slightly better ratings (3.86 avg)
 - Budget and Mid Range are very close in ratings
+- ## Results Preview
+
+### Price Segmentation
+| Price Segment | Total Restaurants | Avg Rating |
+|--------------|-------------------|------------|
+| Mid Range    | 6683              | 3.62       |
+| Premium      | 1015              | 3.86       |
+| Budget       | 982               | 3.66       |
 
 ## Files
 - `swiggy_analysis.sql` — all queries
