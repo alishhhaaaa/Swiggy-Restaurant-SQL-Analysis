@@ -46,6 +46,24 @@ rated, and what food types dominate the platform.
 | Premium      | 1015              | 3.86       |
 | Budget       | 982               | 3.66       |
 
+### Top 5 Highest Rated Restaurants (Rating: 5.0)
+| Restaurant | City | Avg Rating | Price |
+|-----------|------|------------|-------|
+| Afresh | Chennai | 5.0 | ₹100 |
+| Keventers Ice Creamery | Kolkata | 5.0 | ₹300 |
+| Diamond Market Pizza Jp | Mumbai | 5.0 | ₹600 |
+| The Asian Pavilion | Mumbai | 5.0 | ₹200 |
+| Wallonia Waffle Co. | Hyderabad | 5.0 | ₹300 |
+
+### Top 5 Fastest Delivery Areas
+| Area | City | Avg Delivery Time (min) |
+|------|------|------------------------|
+| Venkateshwara Colony | Hyderabad | 24 |
+| Ramkote | Hyderabad | 26 |
+| Moonlight Cream Sagrampura | Surat | 26 |
+| Rajamohallah | Hyderabad | 27 |
+| Sector 4 Rohini | Delhi | 27 |
+
 ## Files
 - `swiggy_analysis.sql` — all queries
 - `swiggy. (1).csv` — dataset used
