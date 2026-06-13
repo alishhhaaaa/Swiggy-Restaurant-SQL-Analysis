@@ -40,7 +40,7 @@ rated, and what food types dominate the platform.
 
 ## Files
 - `swiggy_analysis.sql` — all queries
-- `swiggy.csv` — dataset used
+- `swiggy. (1).csv` — dataset used
 
 ## Author
-Alisha Naaz | B.Tech Data Science | IKGPTU Chandigarh
+Alisha Naaz | B.Tech Data Science | IKGPTU Mohali
